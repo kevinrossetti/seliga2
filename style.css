@@ -1,10 +1,10 @@
 .corpo{
-    background-color: blueviolet;
-    color: blue;
+    background-color: rgb(220, 43, 226);
+    color: rgb(32, 32, 56);
     text-align: center;
 }
 #seliga{
-    width: 300px;
+    width: 600px;
 }
 #recuperacao{
     width: 600px;
